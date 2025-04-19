@@ -17,6 +17,6 @@ Purpose: Learn about syntax
 
 # Resources:
 
-- [My Notion]('https://ducvui2003.notion.site/Go-1d304e5782c18032ad4af03d54ccfa45?pvs=74)
+- [My Notion](https://ducvui2003.notion.site/Go-1d304e5782c18032ad4af03d54ccfa45?pvs=74)
 - [Go Tour](https://go.dev/tour/basics)
 - [Programiz](https://www.programiz.com/golang/getting-started)
