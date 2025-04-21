@@ -1,9 +1,16 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"strings"
+)
 
 func main() {
 	var message string
 	message = "hello world"
-	fmt.Print(message)
+
+	fmt.Println(message)
+
+	sliceStr := []string{"hello", "world"}
+	fmt.Println(strings.Join(sliceStr, " "))
 }
